@@ -10,4 +10,4 @@ Características 🌟
 - Precisión: A través de iteraciones y optimizaciones, el modelo alcanza una alta precisión en la conversión.
 - Interfaz amigable: Proporcionamos una interfaz sencilla para que los usuarios ingresen grados Celsius y obtengan la conversión a Fahrenheit.
 
-Si deseas experimentar su funcionamiento lo puedes hacer desde mi web , en el apartado de Portfolio - https://cv.olalau.info/
+Si deseas experimentar su funcionamiento lo puedes hacer desde mi web , en el apartado de Portfolio - https://cv.olalau.info/#portfolio
